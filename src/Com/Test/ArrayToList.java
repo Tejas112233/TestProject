@@ -21,6 +21,7 @@ public class ArrayToList {
 		}
 		
 		System.out.println(list);
+		System.out.println(System.getProperty("user.dir"));
 		
 		}
 	
