@@ -1,0 +1,27 @@
+Write a method in Java which will remove any given character from a String.
+Write a program in Java to count occurrence of a given character in a String.
+Java Program to count the occurrence of duplicate characters in String.
+Java Program to count the duplicate characters in String.
+Write a program in Java to check if two String are Anagram.
+Write a program in Java to check a String is palindrome or not.
+Java program to check given character is vowel or consonant.
+Java program to replace the string space with a given character.
+Java program to convert lowercase char to uppercase of string.
+Java program to convert lowercase vowel to uppercase in string.
+Java program to delete vowels in a given string.
+Java program to count Occurrence Of Vowels & Consonants in a String.
+Java program to print the highest frequency character in a String.
+Java program to Replace First Occurrence Of Vowel With ‘-‘ in String.
+Java program to count alphabets, digits and special characters.
+Java program to remove blank space from string.
+Java program to Concatenate two strings.
+Java Program to remove repeated character from string.
+Java program to calculate sum of integers in string.
+Java program to print all non repeating character in string.
+Java Program to sort characters of string in Ascending Order.
+Java Program to sort character of string in descending order.
+YOU MIGHT ALSO LIKE
+Read more about the article Check character is uppercase or lowercase in Java
+Check character is uppercase or lowercase in Java
+Read more about the article Java Program to search an element in an array
+Java Program to search an element in an array

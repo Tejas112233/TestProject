@@ -1,4 +1,4 @@
-package Com.Test;
+package StringProgram;
 
 public class CountOccurenceOfCharacterInString {
 
