@@ -1,6 +1,6 @@
 package Com.Test;
 import java.util.*;
-public class ArrayToList {
+public class ArrayToListProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

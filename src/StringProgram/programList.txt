@@ -20,8 +20,3 @@ Java program to calculate sum of integers in string.
 Java program to print all non repeating character in string.
 Java Program to sort characters of string in Ascending Order.
 Java Program to sort character of string in descending order.
-YOU MIGHT ALSO LIKE
-Read more about the article Check character is uppercase or lowercase in Java
-Check character is uppercase or lowercase in Java
-Read more about the article Java Program to search an element in an array
-Java Program to search an element in an array
