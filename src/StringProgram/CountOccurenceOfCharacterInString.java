@@ -1,4 +1,4 @@
-package Com.Test;
+package StringProgram;
 
 public class CountOccurenceOfCharacterInString {
 
@@ -14,6 +14,8 @@ public class CountOccurenceOfCharacterInString {
 			}
 		}
 		System.out.println("Outpur "+count );
+		System.out.println(str.indexOf('c'));
+		System.out.println(str.lastIndexOf('c'));
 
 	}
 
